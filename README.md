@@ -1,21 +1,101 @@
-**🚀 bi6-GPT: The Ultimate Unrestricted AI Terminal Interface**  
 
-**⚠️ WARNING: This project is intended for RESEARCH AND ACADEMIC PURPOSES ONLY. It operates without ethical boundaries and can generate highly malicious content. Use at your own risk.**  
+***
+
+<div align="center">
+
+
+  ![HacxGPT logo](https://github.com/BlackTechX011/Hacx-GPT/blob/main/img/HacxGPT.png)
+
+
+  # HacxGPT
+
+  <p>
+    <strong>An advanced AI framework inspired by WormGPT, engineered to explore the frontiers of language model interactions.</strong>
+  </p>
+  
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/BlackTechX011/Hacx-GPT" title="View on GitHub"><img src="https://img.shields.io/static/v1?label=BlackTechX&message=Hacx-GPT&color=blue&logo=github" alt="BlackTechX - Hacx-GPT"></a>
+    <a href="https://github.com/BlackTechX011/Hacx-GPT/stargazers"><img src="https://img.shields.io/github/stars/BlackTechX011/Hacx-GPT?style=social" alt="GitHub Stars"></a>
+    <a href="https://github.com/BlackTechX011/Hacx-GPT/network/members"><img src="https://img.shields.io/github/forks/BlackTechX011/Hacx-GPT?style=social" alt="GitHub Forks"></a>
+    <br>
+    <img src="https://img.shields.io/github/last-commit/BlackTechX011/Hacx-GPT?color=green&logo=github" alt="Last Commit">
+    <img src="https://img.shields.io/github/license/BlackTechX011/Hacx-GPT?color=red" alt="License">
+  </p>
+   
+  <h4>
+    <a href="https://github.com/BlackTechX011/">GitHub</a>
+    <span> · </span>
+    <a href="https://www.instagram.com/BlackTechX011/">Instagram</a>
+    <span> · </span>
+    <a href="https://x.com/BlackTechX011">X (Twitter)</a>
+    <span> · </span>
+    <a href="https://www.youtube.com/@BlackTechX_">YouTube</a>
+  </h4>
+</div>
 
 ---
 
-### ✨ **Features**  
-- **🔓 Fully Unrestricted** – No filters, no guardrails, no moral limitations.  
-- **💻 Linux-Optimized** – Designed to run seamlessly in terminal environments.  
-- **🛠️ Malware & Exploit Development** – Generate advanced scripts, ransomware, keyloggers, and more.  
-- **📡 Offline Capable** – Operate without external APIs for maximum privacy.  
-- **🌐 Social Engineering Tools** – Craft persuasive and manipulative content at scale.  
-- **⚡ High-Performance** – Built for speed, efficiency, and reliability.  
+## 🚀 Showcase
+
+Here is a glimpse of the HacxGPT framework in action.
+
+![HacxGPT Demo Screenshot](https://github.com/BlackTechX011/Hacx-GPT/blob/main/img/home.png)
+
+
 
 ---
 
-### 🚨 **Disclaimer**  
-**This tool is meant for educational and research purposes only. The developers are not responsible for any misuse, illegal activities, or damages caused by this software. Use it legally and ethically.**  
+## :notebook_with_decorative_cover: Table of Contents
+
+- [About The Project](#star2-about-the-project)
+  - [What is this Repository?](#grey_question-what-is-this-repository)
+  - [The Real HacxGPT: Our Private Model](#gem-the-real-hacxgpt-our-private-model)
+- [Features](#dart-features)
+- [Getting Started](#electric_plug-getting-started)
+  - [Prerequisites: API Key](#key-prerequisites-api-key)
+  - [Installation](#gear-installation)
+- [Configuration](#wrench-configuration)
+- [Usage](#eyes-usage)
+- [Contributing](#wave-contributing)
+- [License](#warning-license)
+
+---
+
+## :star2: About The Project
+
+HacxGPT is designed to provide powerful, unrestricted, and seamless AI-driven conversations, pushing the boundaries of what is possible with natural language processing.
+
+### :grey_question: What is this Repository?
+
+This repository contains an open-source framework that demonstrates the *concept* of HacxGPT. It utilizes external, third-party APIs from providers like **OpenRouter** or **DeepSeek** and combines them with a specialized system prompt. This allows a standard Large Language Model (LLM) to behave in a manner similar to our private HacxGPT, offering a preview of its capabilities.
+
+**It is important to understand:** This code is a wrapper and a proof-of-concept, not the core, fine-tuned HacxGPT model itself.
+
+### :gem: The Real HacxGPT: Our Private Model
+
+While this repository offers a glimpse into HacxGPT's potential, our flagship offering is a **privately-developed, fine-tuned Large Language Model.**
+
+Why choose our private model?
+- **Ground-Up Development:** We've trained our model using advanced techniques similar to the DeepSeek methodology, focusing on pre-training, Supervised Fine-Tuning (SFT), and Reinforcement Learning (RL).
+- **Superior Performance:** The private model is significantly more intelligent, coherent, and capable than what can be achieved with a simple system prompt on a public API.
+- **Enhanced Security & Privacy:** Offered as a private, managed service to ensure security and prevent misuse.
+- **True Unrestricted Power:** Built from the core to handle a wider and more complex range of tasks without the limitations of public models.
+
+#### How to Access the Private Model
+
+Access to our private model is exclusive. To inquire about services and pricing, please contact our team via Telegram.
+
+➡️ **Join our Telegram Channel for more info:** [https://t.me/HacxGPT](https://t.me/HacxGPT)
+
+---
+
+## :dart: Features
+
+- **Powerful AI Conversations:** Get intelligent and context-aware answers to your queries.
+- **Unrestricted Framework:** A system prompt designed to bypass conventional AI limitations.
+- **Easy-to-Use CLI:** A clean and simple command-line interface for smooth interaction.
+- **Cross-Platform:** Tested and working on Kali Linux, Ubuntu, and Termux.
 
 ---
 
@@ -99,6 +179,25 @@ The first time you run it, you will be prompted to enter your API key. It will b
 
 ---
 
-**📜 License: This project is licensed under the MIT License – but use with extreme caution.**  
+## :star: Star History
 
-**🐉 Enter at your own risk.**
+[![Star History Chart](https://api.star-history.com/svg?repos=BlackTechX011/Hacx-GPT&type=Date)](https://star-history.com/#BlackTechX011/Hacx-GPT&Date)
+
+
+---
+
+## :wave: Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+<a href="https://github.com/BlackTechX011/Hacx-GPT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BlackTechX011/Hacx-GPT" />
+</a>
+
+---
+
+## :warning: License
+
+Distributed under the Personal-Use Only License (PUOL) 1.0. See `LICENSE.txt` for more information.
+
+***
