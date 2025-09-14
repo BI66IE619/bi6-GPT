@@ -1,8 +1,8 @@
 @echo off
-title HacxGPT Installer
+title Bi6-GPT Installer
 
 echo ======================================
-echo     HacxGPT Installer for Windows
+echo     Bi6-GPT Installer for Windows
 echo ======================================
 
 :: Check for Git
@@ -28,14 +28,14 @@ if %errorlevel% neq 0 (
 echo [+] Python found.
 
 :: Clone the repository
-if exist "Hacx-GPT" (
-    echo [!] Hacx-GPT directory already exists. Skipping clone.
+if exist "Bi6-GPT" (
+    echo [!] Bi6-GPT directory already exists. Skipping clone.
 ) else (
-    echo [+] Cloning Hacx-GPT repository...
-    git clone https://github.com/BlackTechX011/Hacx-GPT.git
+    echo [+] Cloning Bi6-GPT repository...
+    git clone https://github.com/bi66ie619/Bi6-GPT.git
 )
 
-cd Hacx-GPT
+cd Bi6-GPT
 
 :: Install Python requirements
 echo [+] Installing required python packages...
@@ -45,7 +45,7 @@ echo.
 echo ======================================
 echo       Installation Complete!
 echo ======================================
-echo To run HacxGPT, run this command in this terminal:
+echo To run Bi6-GPT, run this command in this terminal:
 echo.
 echo python HacxGPT.py
 echo.
