@@ -69,12 +69,12 @@ If you prefer to install manually, follow these steps.
 
 You can easily switch between API providers.
 
-1.  Open the `HacxGPT.py` file in a text editor.
+1.  Open the `Bi6-GPT.py` file in a text editor.
 2.  Locate the `API_PROVIDER` variable at the top of the file.
 3.  Change the value to either `"openrouter"` or `"deepseek"`.
 
     ```python
-    # HacxGPT.py
+    # Bi6-GPT.py
 
     # Change this value to "deepseek" or "openrouter"
     API_PROVIDER = "openrouter" 
@@ -88,7 +88,7 @@ You can easily switch between API providers.
 Once installation and configuration are complete, run the application with this simple command:
 
 ```bash
-python3 HacxGPT.py
+python3 Bi6-GPT.py
 ```
 
 The first time you run it, you will be prompted to enter your API key. It will be saved locally for future sessions.
