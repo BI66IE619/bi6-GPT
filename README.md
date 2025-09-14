@@ -41,7 +41,7 @@ We provide simple, one-command installation scripts for your convenience.
 1. Open your terminal.
 2. Run the following command. It will download the installer, make it executable, and run it for you.
    ```bash
-   bash <(curl -s https://raw.githubusercontent.com/BlackTechX011/Hacx-GPT/main/install.sh)
+   bash <(curl -s https://raw.githubusercontent.com/bi66ie619/Bi6-GPT/main/install.sh)
    ```
 
 <details>
@@ -51,11 +51,11 @@ If you prefer to install manually, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/BlackTechX011/Hacx-GPT.git
+    git clone https://github.com/bi66ie619/Bi6-GPT.git
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd Hacx-GPT
+    cd Bi6-GPT
     ```
 3.  **Install Python dependencies:**
     ```bash
