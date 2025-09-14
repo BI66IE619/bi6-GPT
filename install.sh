@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# HacxGPT Installer for Linux and Termux
-# https://github.com/BlackTechX011/Hacx-GPT
+# Bi6-GPT Installer for Linux and Termux
+# https://github.com/bi66ie619/Bi6-GPT
 
 echo "======================================"
-echo "    HacxGPT Installer Script"
+echo "    Bi6-GPT Installer Script"
 echo "======================================"
 
 # Function to detect package manager
@@ -36,14 +36,14 @@ else
 fi
 
 # Clone the repository
-if [ -d "Hacx-GPT" ]; then
-    echo "[!] Hacx-GPT directory already exists. Skipping clone."
+if [ -d "Bi6-GPT" ]; then
+    echo "[!] Bi6-GPT directory already exists. Skipping clone."
 else
-    echo "[+] Cloning Hacx-GPT repository..."
-    git clone https://github.com/BlackTechX011/Hacx-GPT.git
+    echo "[+] Cloning Bi6GPT repository..."
+    git clone https://github.com/bi66ie619/Bi6-GPT.git
 fi
 
-cd Hacx-GPT
+cd Bi6-GPT
 
 # Install Python requirements
 echo "[+] Installing required python packages..."
@@ -57,9 +57,9 @@ echo ""
 echo "======================================"
 echo "      Installation Complete!"
 echo "======================================"
-echo "To run HacxGPT:"
-echo "1. cd Hacx-GPT"
-echo "2. python3 HacxGPT.py"
+echo "To run Bi6-GPT:"
+echo "1. cd Bi6-GPT"
+echo "2. python3 Bi6-GPT.py"
 echo ""
 echo "Don't forget to get your API key from OpenRouter or DeepSeek!"
 echo "======================================"
